@@ -63,9 +63,6 @@ def game(list):
             break
     if mistakes == 3:
         print("You lose!")
-        
-        
-    
 
 if category == "Food":
     game(foods)
